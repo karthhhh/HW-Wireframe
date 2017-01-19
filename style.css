@@ -1,0 +1,39 @@
+body {
+	background-color: #777;
+
+}
+header,nav,footer {
+	color: white;
+	height: 100px;
+	text-align: center;
+	padding-top: 50px;
+	padding-right: 30px;
+	padding-bottom: 50px;
+	padding-left: 80px;
+	border: 1px solid black;
+
+
+}
+section {
+	color: white;
+
+}
+.class-left {
+	float:left;
+	position: relative;
+	width:50%;
+	padding-top: 2px;
+	padding-right: 2px;
+	padding-bottom: 2px;
+	padding-left: 2px;
+	border: 1px solid black;
+
+}
+.class-right {
+	position: relative;
+	padding-top: 2px;
+	padding-right: 2px;
+	padding-bottom: 2px;
+	padding-left: 2px;
+	border: 1px solid black;
+}
